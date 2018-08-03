@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "C160D2D4-C8F9-41F0-A40E-43CD4DB730DD",
+  "do_objectID": "DA7F3E5E-3D16-4394-AC6C-A45DD848E7D4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 250,
-    "x": 1020,
-    "y": 4223
+    "height": 2571,
+    "width": 1440,
+    "x": 0,
+    "y": 5654
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,14 +25,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "E0E67C33-BA2A-4D83-A941-494EFF974C92"
+      "id": "7F0856CA-C063-4A1D-BD81-250699F56BBE"
     }
   ],
-  "name": "Rectangle 3 Copy 2",
+  "name": "Rectangle Copy 5",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -54,6 +54,34 @@
         "isEnabled": false,
         "position": 1,
         "thickness": 1
+      },
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0
+      },
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0
       }
     ],
     "endDecorationType": 0,
@@ -63,9 +91,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.388235294117647,
-          "green": 0.8313725490196079,
-          "red": 1
+          "blue": 0.74093856292517,
+          "green": 0.5555534823913583,
+          "red": 0.3849992083002511
         },
         "fillType": 0,
         "isEnabled": true,
@@ -76,6 +104,28 @@
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
   "windingRule": 1

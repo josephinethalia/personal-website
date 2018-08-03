@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "E208F561-D8E9-468C-A979-59E9A0D77392",
+  "do_objectID": "6EAACF6E-CFEA-41CA-A294-F7E2EFF245A1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 670,
-    "width": 474,
+    "height": 616,
+    "width": 619,
     "x": 147,
-    "y": 3821
+    "y": 4711
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/9e82a0c0c125032baf9e6b85c741d21063c4fa9e",
+    "_ref": "images/35a3caa44a08957a24fa25fdf4bbd44e9b45d590",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "cold brew-01",
+  "name": "Pas Foto-01",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
